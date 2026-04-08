@@ -5,3 +5,6 @@ cd swil-missile-tracking
 pip install -r requirements.txt
 python src/main.py
 ```
+example output: 
+
+![Simulation Output](swilFig.png)
